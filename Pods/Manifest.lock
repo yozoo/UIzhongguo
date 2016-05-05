@@ -1,0 +1,13 @@
+PODS:
+  - RZSquaresLoading (1.1)
+  - YLProgressBar (3.8.1)
+
+DEPENDENCIES:
+  - RZSquaresLoading
+  - YLProgressBar (~> 3.8.1)
+
+SPEC CHECKSUMS:
+  RZSquaresLoading: c0aefa508119a76497424829e439e1b8b0d12fdc
+  YLProgressBar: c6699d75d58042377132c9301d3ab8fd0204937d
+
+COCOAPODS: 0.39.0
